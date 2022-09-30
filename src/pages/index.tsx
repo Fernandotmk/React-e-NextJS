@@ -7,7 +7,6 @@ type Props = {
 }
 
 const bal = 'val'
-sds
 
 export default function Home({ title = 'React-avançado' }: Props) {
   return (
